@@ -1,0 +1,1580 @@
+                {
+                    "hosts": {
+                        "192.168.109.120": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L109120",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.109.18": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                    "hostname": "L10918",
+                                    "memory_info": "3,2G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.109.26": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "Intel(R) Celeron(R) CPU N3350 @ 1.10GHz",
+                                    "hostname": "L10926",
+                                    "memory_info": "1,8G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.11": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L11511",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.111": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L115111",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.112": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                    "hostname": "L115112",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.113": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L115113",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.114": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD FX(tm)-6300 Six-Core Processor",
+                                    "hostname": "L115114",
+                                    "memory_info": "3,0G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.116": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                    "hostname": "L1151116",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.117": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L115117",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.118": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                    "hostname": "L115118",
+                                    "memory_info": "3,2G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.119": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                    "hostname": "L115119",
+                                    "memory_info": "3,2G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.12": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L11512",
+                                    "memory_info": "2,1G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.126": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L115126",
+                                    "memory_info": "2,1G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.14": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L11514",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.15": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L11515",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.16": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L11516",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.115.17": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 240 Processor",
+                                    "hostname": "L11517",
+                                    "memory_info": "1,8G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.124.118": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L124118",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.124.126": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                    "hostname": "L124126",
+                                    "memory_info": "3,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.128.115": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L128115",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.131.117": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L131117",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.134.127": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Sempron(tm) 145 Processor",
+                                    "hostname": "L134127",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.137.17": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L13717",
+                                    "memory_info": "3,0G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.14.17": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L01417",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.142.111": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L142111",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.147.114": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+                                    "hostname": "L147114",
+                                    "memory_info": "3,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.15.114": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD FX(tm)-6300 Six-Core Processor",
+                                    "hostname": "L015114",
+                                    "memory_info": "3,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.158.11": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L15811",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.161.117": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                    "hostname": "L161117",
+                                    "memory_info": "3,0G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.162.17": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "Intel(R) Celeron(R) CPU N3350 @ 1.10GHz",
+                                    "hostname": "L16217",
+                                    "memory_info": "1,8G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.23.115": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L023115",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.42.126": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L042126",
+                                    "memory_info": "2,1G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.42.14": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L04214",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.11": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L04311",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.111": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L043111",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.113": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                    "hostname": "L043113",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.114": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L043114",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.117": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L043117",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.118": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD FX(tm)-6300 Six-Core Processor",
+                                    "hostname": "L043118",
+                                    "memory_info": "3,2G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.12": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L04312",
+                                    "memory_info": "2,1G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.126": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L043126",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.14": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L04314",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.15": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L04315",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.43.16": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L04316",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.50.120": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                    "hostname": "L050120",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.61.111": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L061111",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.64.11": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                    "hostname": "L06411",
+                                    "memory_info": "7,6G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.64.118": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Sempron(tm) 145 Processor",
+                                    "hostname": "L064118",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.68.17": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                    "hostname": "L06817",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.7.14": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L00714",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.73.127": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                    "hostname": "L073127",
+                                    "memory_info": "3,2G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.75.115": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD Athlon(tm) II X2 240 Processor",
+                                    "hostname": "L075115",
+                                    "memory_info": "851M"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.78.14": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L07814",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.78.17": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L07817",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.83.17": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L08317",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.88.113": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                    "hostname": "L088113",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.88.16": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L08816",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.91.112": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD Athlon(tm) II X2 240 Processor",
+                                    "hostname": "L091112",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.94.115": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                    "hostname": "L094115",
+                                    "memory_info": "7,5G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.94.119": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                    "hostname": "L094119",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.95.123": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "x86_64",
+                                    "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                    "hostname": "L095123",
+                                    "memory_info": "1,7G"
+                                }
+                            },
+                            "changed": false
+                        },
+                        "192.168.96.112": {
+                            "_ansible_no_log": null,
+                            "action": "set_fact",
+                            "ansible_facts": {
+                                "system_info": {
+                                    "architecture": "i686",
+                                    "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                    "hostname": "L096112",
+                                    "memory_info": "1,7G"
+                                }
+
+                        },
+                        "192.168.109.120": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                                "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L109120",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        
+                        "192.168.109.18": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                "hostname": "L10918",
+                                "memory_info": "3,2G"
+                            }
+                        },
+                        "192.168.109.26": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "Intel(R) Celeron(R) CPU N3350 @ 1.10GHz",
+                                "hostname": "L10926",
+                                "memory_info": "1,8G"
+                            }
+                        },
+                        "192.168.115.11": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L11511",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.115.111": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L115111",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.115.112": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                "hostname": "L115112",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.115.113": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L115113",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.115.114": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD FX(tm)-6300 Six-Core Processor",
+                                "hostname": "L115114",
+                                "memory_info": "3,0G"
+                            }
+                        },
+                        "192.168.115.116": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                "hostname": "L1151116",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.115.117": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L115117",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.115.118": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                "hostname": "L115118",
+                                "memory_info": "3,2G"
+                            }
+                        },
+                        "192.168.115.119": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                "hostname": "L115119",
+                                "memory_info": "3,2G"
+                            }
+                        },
+                        "192.168.115.12": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L11512",
+                                "memory_info": "2,1G"
+                            }
+                        },
+                        "192.168.115.126": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L115126",
+                                "memory_info": "2,1G"
+                            }
+                        },
+                        "192.168.115.14": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L11514",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.115.15": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L11515",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.115.16": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L11516",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.115.17": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 240 Processor",
+                                "hostname": "L11517",
+                                "memory_info": "1,8G"
+                            }
+                        },
+                        "192.168.124.118": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L124118",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.124.126": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                "hostname": "L124126",
+                                "memory_info": "3,6G"
+                            }
+                        },
+                        "192.168.128.115": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L128115",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.131.117": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L131117",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.134.127": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Sempron(tm) 145 Processor",
+                                "hostname": "L134127",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.137.17": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L13717",
+                                "memory_info": "3,0G"
+                            }
+                        },
+                        "192.168.14.17": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L01417",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.142.111": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L142111",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.147.114": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+                                "hostname": "L147114",
+                                "memory_info": "3,7G"
+                            }
+                        },
+                        "192.168.15.114": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD FX(tm)-6300 Six-Core Processor",
+                                "hostname": "L015114",
+                                "memory_info": "3,6G"
+                            }
+                        },
+                        "192.168.158.11": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L15811",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.161.117": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                "hostname": "L161117",
+                                "memory_info": "3,0G"
+                            }
+                        },
+                        "192.168.162.17": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "Intel(R) Celeron(R) CPU N3350 @ 1.10GHz",
+                                "hostname": "L16217",
+                                "memory_info": "1,8G"
+                            }
+                        },
+                        "192.168.23.115": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L023115",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.42.126": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L042126",
+                                "memory_info": "2,1G"
+                            }
+                        },
+                        "192.168.42.14": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L04214",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.43.11": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L04311",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.43.111": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L043111",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.43.113": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                "hostname": "L043113",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.43.114": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L043114",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.43.117": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L043117",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.43.118": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD FX(tm)-6300 Six-Core Processor",
+                                "hostname": "L043118",
+                                "memory_info": "3,2G"
+                            }
+                        },
+                        "192.168.43.12": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L04312",
+                                "memory_info": "2,1G"
+                            }
+                        },
+                        "192.168.43.126": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L043126",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.43.14": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L04314",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.43.15": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L04315",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.43.16": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L04316",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.50.120": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                "hostname": "L050120",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.61.111": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L061111",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.64.11": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                                "hostname": "L06411",
+                                "memory_info": "7,6G"
+                            }
+                        },
+                        "192.168.64.118": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Sempron(tm) 145 Processor",
+                                "hostname": "L064118",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.68.17": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                "hostname": "L06817",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.7.14": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L00714",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.73.127": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                "hostname": "L073127",
+                                "memory_info": "3,2G"
+                            }
+                        },
+                        "192.168.75.115": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD Athlon(tm) II X2 240 Processor",
+                                "hostname": "L075115",
+                                "memory_info": "851M"
+                            }
+                        },
+                        "192.168.78.14": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L07814",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.78.17": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L07817",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.83.17": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L08317",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.88.113": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 270 Processor",
+                                "hostname": "L088113",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.88.16": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L08816",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.91.112": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD Athlon(tm) II X2 240 Processor",
+                                "hostname": "L091112",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.94.115": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz",
+                                "hostname": "L094115",
+                                "memory_info": "7,5G"
+                            }
+                        },
+                        "192.168.94.119": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                "hostname": "L094119",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.95.123": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "x86_64",
+                                "cpu_info": "AMD Athlon(tm) II X2 250 Processor",
+                                "hostname": "L095123",
+                                "memory_info": "1,7G"
+                            }
+                        },
+                        "192.168.96.112": {
+                            "_ansible_no_log": null,
+                            "_ansible_verbose_always": true,
+                            "action": "debug",
+                            "changed": false,
+                            "system_info": {
+                                "architecture": "i686",
+                                "cpu_info": "AMD FX(tm)-4300 Quad-Core Processor",
+                                "hostname": "L096112",
+                                "memory_info": "1,7G"
+                            }
+                        }
+                    }
+                }   
+        }
+            
